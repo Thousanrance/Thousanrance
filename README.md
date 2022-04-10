@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thousanrance
-- 👀 I’m interested in GUI.
+- 👀 I’m interested in ().
 - 🌱 I’m currently learning basic programming.
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me: emaii:xiaozhenran@sjtu.edu.cn
+- 💞️ I’m looking to collaborate on ().
+- 📫 How to reach me: ()
