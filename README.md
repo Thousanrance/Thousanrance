@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thousanrance
-- 👀 I’m interested in KG & LI.
-- 🌱 I’m currently working on my undergraduate degree and preparing for the postgraduate entrance examination.
-- 💞️ I’m looking to collaborate on ???.
-- 📫 How to reach me: thousanrance@gmail.com
+- 👀 I’m studying on AI4Bio & AI4Chem.
+- 🌱 I’m currently working on my master degree.
+- 💞️ I’m looking to collaborate on AI4Sci.
+- 📫 How to reach me: xiaozhenran@sjtu.edu.cn
